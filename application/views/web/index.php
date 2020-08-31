@@ -27,7 +27,7 @@
             <div class="container clearfix">
               <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                  <p class="italic">Andrianext.web.id</p>
+                  <p class="italic">fikri</p>
                   <h1>SIMITA</h1>
                   <p class="italic">Sistem Management IT Asset</p>
                   <p class="italic">Kini telah tersedia aplikasi pengaduan gangguan Komputer,Laptop, dan Printer </p>

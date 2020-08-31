@@ -1,7 +1,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>ITAsset Management</title>
+    <title>Ticketing Mazta Farma Asset</title>
     <link href='<?php echo base_url("assets/img/favicon.ico"); ?>' rel='shortcut icon' type='image/x-icon'/>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- bootstrap 3.3.2 -->        
@@ -47,7 +47,7 @@
             <div class="pull-right hidden-xs">
                 <b>Version</b> 2.0
             </div>
-            <strong>Copyright &copy; 2015-2016 <a href="http://andrianext.web.id">Andrianext -IT Asset Management</a> - </strong> All rights reserved
+            <strong>Copyright &copy; 2020 <a href="maztafarma.com">Fikri -IT Asset Management</a> - </strong> All rights reserved
         </footer>
         <aside class="control-sidebar control-sidebar-dark">
             <!-- Create the tabs -->

@@ -1,7 +1,7 @@
 <header class="main-header">
     <a href="<?php echo site_url('web'); ?> " class="logo">
 		<span class="logo-mini"><b>IT</b>A</span>
-		<span class="logo-lg"><b>ITAsset</b> (SIMITA)</span>
+		<span class="logo-lg"><b>MAZTA FARMA </b> (SIMITA)</span>
 	</a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top" role="navigation">
